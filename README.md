@@ -92,7 +92,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 
 ## 大模型（LLMs）微调面 [[答案]](./答案/澶фā鍨嬶紙LLMs锛夊井璋冮潰.md)
 
-### [大模型（LLMs）微调面](https://articles.zsxq.com/id_dh5ln4oerfhk.html)
+### 大模型（LLMs）微调面
 
 1. 如果想要在某个模型基础上做全参数微调，究竟需要多少显存？
 2. 为什么SFT之后感觉LLM傻了?
@@ -313,7 +313,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 5. 大模型评估工具 有哪些？
 
 
-## [大模型（LLMs）强化学习面](https://articles.zsxq.com/id_zqs7mjw6c8k7.html)
+## 大模型（LLMs）强化学习面 [[答案]](./答案/澶фā鍨嬶紙LLMs锛夊己鍖栧涔犻潰.md)
 
 - 1. 简单介绍强化学习？
 - 2. 简单介绍一下 RLHF？
