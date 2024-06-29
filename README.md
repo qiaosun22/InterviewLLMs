@@ -554,15 +554,14 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 总结一下 构建中文tokenization？
 
 
-### [怎么让英文大语言模型支持中文？（二） —— 继续预训练篇](https://articles.zsxq.com/id_jprkwhrvf3tw.html)
-
+### [怎么让英文大语言模型支持中文？（二） —— 继续预训练篇]
 - 一、为什么需要进行继续预训练？
 - 二、如何对 继续预训练 数据预处理？
 - 三、如何 构建模型？
 - 四、如何 使用模型？
 
 
-### [怎么让英文大语言模型支持中文？（三） —— 对预训练模型进行指令微调](https://articles.zsxq.com/id_p2wj7zadwxwb.html)
+### [怎么让英文大语言模型支持中文？（三） —— 对预训练模型进行指令微调]
 
 - 一、为什么需要对预训练模型进行指令微调？
 - 二、对预训练模型进行指令微调 数据 如何处理？
@@ -571,7 +570,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 五、是否可以结合 其他库 使用？
 
 
-## [Layer normalization 篇](https://articles.zsxq.com/id_pzcgd4ovk098.html)
+## [Layer normalization 篇]
 
 - Layer normalization-方法篇
   - Layer Norm 篇
@@ -589,7 +588,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
   - LLMs 各模型分别用了 哪种 Layer normalization？
   
 
-## [LLMs 激活函数篇](https://articles.zsxq.com/id_6xm3wzzice2s.html)
+## [LLMs 激活函数篇]
 
 - 1 介绍一下 FFN 块 计算公式？
 - 2 介绍一下 GeLU 计算公式？
@@ -600,7 +599,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 各LLMs 都使用哪种激活函数？
 
 
-## [LLMs 激活函数篇](https://articles.zsxq.com/id_6xm3wzzice2s.html)
+## [LLMs 激活函数篇]
 
 - 1 介绍一下 FFN 块 计算公式？
 - 2 介绍一下 GeLU 计算公式？
@@ -613,7 +612,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 
 ## 大模型（LLMs）加速篇
 
-### [大模型（LLMs）加速篇](https://articles.zsxq.com/id_w9wewc152eux.html)
+### [大模型（LLMs）加速篇]=
 
 - 1. 当前优化模型最主要技术手段有哪些？
 - 2. 推理加速框架有哪一些？都有什么特点？
@@ -631,7 +630,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
   - 4.5 Text generation inference 的 使用docker运行web server？
   
 
-### [LLM（大语言模型）部署加速方法——PagedAttention篇](https://articles.zsxq.com/id_p22mjq881n3n.html)
+### [LLM（大语言模型）部署加速方法——PagedAttention篇]
 
 - 一、vLLM 用于大模型并行推理加速 存在什么问题？
 - 二、vLLM 如何 优化 大模型并行推理加速？
@@ -642,8 +641,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 七、 PagedAttention 源码介绍？
 
 
-### [大模型推理加速工具 —— vLLM](https://articles.zsxq.com/id_zw5h9ogvac2w.html)
-
+### [大模型推理加速工具 —— vLLM]
 - 一、引言
   - 1.1 前言
   - 1.2 为什么 需要 vLLM ?
@@ -656,15 +654,14 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 六、vLLM 分布式推理与服务
 
 
-### [LLM（大语言模型）部署加速方法——Faster Transformer篇](https://articles.zsxq.com/id_dd2gowztxtfg.html)
-
+### [LLM（大语言模型）部署加速方法——Faster Transformer篇]
 - 一、为什么需要 FasterTransformer？
 - 二、FasterTransformer 介绍一下？
 - 三、FasterTransformer 核心是什么？
 - 四、FasterTransformer 优化？
 
 
-### [纯Python超轻量高性能LLM推理框架 —— LightLLM](https://articles.zsxq.com/id_9a643feq2b0b.html)
+### [纯Python超轻量高性能LLM推理框架 —— LightLLM]
 
 - 一、引言
   - 1.1 前言
@@ -686,7 +683,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
   - LightLLM 支持模型 LLMs 模型？
   
 
-## [Attention 升级面](https://articles.zsxq.com/id_j0nwuo0frw2x.html)
+## [Attention 升级面]
 
 - 1 传统 Attention 存在哪些问题？
 - 2 Attention 优化方向
@@ -706,7 +703,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 
 ## 大模型幻觉（LLM Hallucination）面
 
-### [大模型幻觉（LLM Hallucination）面](https://articles.zsxq.com/id_schwrdmvmhr7.html)
+### [大模型幻觉（LLM Hallucination）面]
 
 - 一、什么是大模型幻觉？
 - 二、为什么LLM会产生幻觉？
@@ -721,15 +718,14 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 八、LLMs什么时候最容易产生幻觉？
 
 
-### [大模型的幻觉问题篇](https://articles.zsxq.com/id_8mr4mlhe5q1x.html)
-
+### [大模型的幻觉问题篇]
 - 一、什么是 大模型幻觉问题？
 - 二、为什么 会 出现 大模型幻觉问题？
 - 三、如何 评估 大模型幻觉问题？
 - 四、如何 缓解 大模型幻觉问题？
 
 
-### [大模型的幻觉问题篇](https://articles.zsxq.com/id_tbezgzifowzp.html)
+### [大模型的幻觉问题篇]
 
 - 一、为什么 会 出现 大模型幻觉？
 - 二、如何 缓解 大模型幻觉？
