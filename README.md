@@ -77,7 +77,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 9. 大模型【LLMs】具有什么缺点？
 
 
-## [大模型（LLMs）进阶面](https://articles.zsxq.com/id_v6gltxd4qbxd.html)
+## 大模型（LLMs）进阶面 [[答案]](./答案/澶фā鍨嬶紙LLMs锛夎繘闃堕潰.md)
 
 1. LLMs 复读机问题
    1. 什么是 LLMs 复读机问题？
@@ -274,9 +274,9 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 - 十、LoRA这种微调方法和全参数比起来有什么劣势吗？
 
 
-## [大模型（LLMs）推理面](https://articles.zsxq.com/id_64vc5vvwpobv.html)
+## 大模型（LLMs）推理面 [[答案]](./答案/澶фā鍨嬶紙LLMs锛夋帹鐞嗛潰.md)
 
-### [大模型（LLMs）推理面](https://articles.zsxq.com/id_topiwiusclkr.html)
+### 大模型（LLMs）推理面
 
 - 1. 为什么大模型推理时显存涨的那么多还一直占着？
 - 2. 大模型在gpu和cpu上推理速度如何？
@@ -304,7 +304,7 @@ Thanks for 千面郎君 @ https://github.com/km1994/LLMs_interview_notes/fork.
 4. 增量预训练 训练流程 是怎么样？
 
 
-## [大模型（LLMs）评测面](https://articles.zsxq.com/id_j9wcj62eovgc.html)
+## 大模型（LLMs）评测面 [[答案]](./答案/澶фā鍨嬶紙LLMs锛夎瘎娴嬮潰.md)
 
 1. 大模型怎么评测？
 2. 大模型的honest原则是如何实现的？模型如何判断回答的知识是训练过的已知的知识，怎么训练这种能力？
